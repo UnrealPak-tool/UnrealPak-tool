@@ -19,16 +19,16 @@ UnrealPak-tool
     :target: https://www.microsoft.com/windows/
     :alt: For Windows 8,9,10, and 11
     
-.. image:: https://img.shields.io/github/actions/workflow/status/ppizarror/pygame-menu/ci.yml?branch=master
-    :target: https://github.com/ppizarror/pygame-menu/actions/workflows/ci.yml
+.. image:: https://img.shields.io/github/actions/workflow/status/UnrealPak-tool/unrealpak-tool-lastest/ci.yml?branch=master
+    :target: https://github.com/UnrealPak-tool/unrealpak-tool-lastest/actions/workflows/ci.yml
     :alt: Build status
     
-.. image:: https://readthedocs.org/projects/pygame-menu/badge/?version=latest
-    :target: https://pygame-menu.readthedocs.io
+.. image:: https://readthedocs.org/projects/unrealpak-tool/badge/?version=latest
+    :target: https://unrealpak-tool.readthedocs.io
     :alt: Documentation Status
 
 .. image:: https://img.shields.io/github/issues/ppizarror/pygame-menu
-    :target: https://github.com/ppizarror/pygame-menu/issues
+    :target: https://github.com/UnrealPak-tool/unrealpak-tool-lastest/issues
     :alt: Open issues
 
 Source repo on `GitHub <https://github.com/UnrealPak-tool/UnrealPak-tool-lastest>`_, 
