@@ -8,7 +8,7 @@ UnrealPak-tool
     :alt: UnrealPak-tool
 
 .. image:: https://img.shields.io/badge/author-SamuelLouf-lightgray.svg
-    :target: https://ppizarror.com
+    :target: https://unrealpak-tool.github.io/
     :alt: @ppizarror
 
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg
